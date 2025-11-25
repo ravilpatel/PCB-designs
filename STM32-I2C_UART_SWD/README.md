@@ -8,6 +8,11 @@ This repository contains the KiCAD 9.0 project files, documentation and assets f
 
 [KiCad 6 STM32 PCB Design Full Tutorial - Phil's Lab](https://www.youtube.com/watch?v=aVUqaB0IMh4&pp=ygULS0lDQUQgU3RtMzI%3D)
 
+<div align="center">
+<img src="images/PCB_withFootprints.png" alt="Top View" style="width:50%; height:auto;">
+</div>
+
+
 ---
 
 ## Design specifications
