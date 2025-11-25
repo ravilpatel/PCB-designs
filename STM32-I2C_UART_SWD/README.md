@@ -32,7 +32,7 @@ This repository contains the KiCAD 9.0 project files, documentation and assets f
 ├─ STM32.kicad_pro
 ├─ STM32.kicad_prl              
 ├─ /Manufacturing/            # Generated Gerber + drill files (ready for fab) in zip, BOM in CSV
-├─ /assets/images/      # Schematic + top/bottom/layers view images
+├─ /images/                   # Schematic + top/bottom/layers view images
 │   ├─ schematic.png
 │   ├─ top_view.png
 │   ├─ bottom_view.png
@@ -44,10 +44,10 @@ This repository contains the KiCAD 9.0 project files, documentation and assets f
 ## Images
 
 ```markdown
-![Schematic](assets/images/schematic.png)
-![Top View](assets/images/top_view.png)
-![Bottom View](assets/images/bottom_view.png)
-![Layers View](assets/images/layers_view.png)
+![Schematic](images/schematic.png)
+![Top View](images/top_view.png)
+![Bottom View](images/bottom_view.png)
+![Layers View](images/layers_view.png)
 ```
 
 ---
